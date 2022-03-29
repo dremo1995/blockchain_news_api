@@ -1,0 +1,12 @@
+[
+  {
+    "name": "coindesk",
+    "address": "https://www.coindesk.com/",
+    "base": "https://www.coindesk.com"
+  },
+  {
+    "name": "cryptonews",
+    "address": "https://cryptonews.com/",
+    "base": "https://cryptonews.com"
+  }
+]
